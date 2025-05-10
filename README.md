@@ -1,5 +1,6 @@
-# EchoMind
-
+<div align="center">
+<img src="https://github.com/NizzCorp-Academy/EchoMind_FrontEnd/blob/main/src/assets/logo.png" alt="Echomind Logo" />
+  <h2>EchoMind</h2>
 EchoMind is an intelligent chat application built to revolutionize customer support with the power of AI. Fine-tuned specifically for handling support-related conversations, EchoMind delivers fast, accurate, and human-like responses tailored to your business needs.
 
 # 🛠️ TECH STACK
@@ -11,7 +12,7 @@ EchoMind is an intelligent chat application built to revolutionize customer supp
 - Deployment: <img src="https://github.com/user-attachments/assets/12de079d-039d-45d0-baa2-6861a2330bc6" width="20"/> [Docker]
 
 # ⚡ Quick setup
-
+[
 - clone the repo
   ```console
   git clone https://github.com/NizzCorp-Academy/EchoMind.git
